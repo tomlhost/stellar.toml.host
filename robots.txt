@@ -1,19 +1,23 @@
 User-agent: *
+
 Disallow: /.htaccess
 Disallow: /CNAME
 Disallow: /LICENSE
 Disallow: /browserconfig.xml
 Disallow: /manifest.json
+
 Allow: /
+
 Allow: /en/
 Allow: /en/about/
 Allow: /en/contact/
 Allow: /en/privacy/
-Allow: /en/sitemap/
+
 Allow: /id/
 Allow: /id/tentang/
 Allow: /id/kontak/
 Allow: /id/privasi/
-Allow: /id/sitemap/
+
+Allow: /sitemap/
 
 Sitemap: https://stellar.toml.host/sitemap.xml
