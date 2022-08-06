@@ -8,15 +8,21 @@ Disallow: /manifest.json
 
 Allow: /
 
+Allow: /directory/
+
 Allow: /en/
+Allow: /en/package/
+Allow: /en/news/
 Allow: /en/about/
-Allow: /en/contact/
 Allow: /en/privacy/
+Allow: /en/contact/
 
 Allow: /id/
+Allow: /id/paket/
+Allow: /id/berita/
 Allow: /id/tentang/
-Allow: /id/kontak/
 Allow: /id/privasi/
+Allow: /id/kontak/
 
 Allow: /sitemap/
 
