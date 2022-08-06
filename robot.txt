@@ -1,1 +1,13 @@
+User-agent: *
+Disallow: /.htaccess
+Disallow: /CNAME
+Disallow: /LICENSE
+Disallow: /browserconfig.xml
+Disallow: /manifest.json
+Allow: /
+Allow: /about/
+Allow: /contact/
+Allow: /privacy/
+Allow: /sitemap/
 
+Sitemap: https://stellar.toml.host/sitemap.xml
