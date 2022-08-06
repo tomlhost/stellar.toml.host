@@ -27,3 +27,4 @@ Allow: /id/kontak/
 Allow: /sitemap/
 
 Sitemap: https://stellar.toml.host/sitemap.xml
+
